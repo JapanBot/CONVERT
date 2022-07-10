@@ -1,0 +1,3 @@
+﻿  Convert.cpp
+F:\ProjectMINE\Convert\Convert\Convert.cpp(15,9): error C2086: double RATE: переопределение
+F:\ProjectMINE\Convert\Convert\Convert.cpp(13): message : см. объявление "RATE"
